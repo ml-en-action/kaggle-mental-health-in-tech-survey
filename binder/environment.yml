@@ -15,6 +15,7 @@ dependencies:
   - numba
   - pandas
   - pip
+  - pre-commit
   - proplot
   - pyarrow
   - pymc3
