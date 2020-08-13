@@ -1,0 +1,31 @@
+name: ml-en-action
+channels:
+  - conda-forge
+  - fastai
+dependencies:
+  - arviz
+  - fastai
+  - fastai2
+  - hvplot
+  - importnb
+  - jupyterlab
+  - kaggle
+  - matplotlib
+  - nodejs
+  - numba
+  - pandas
+  - pip
+  - proplot
+  - pyarrow
+  - pymc3
+  - pytest
+  - python=3.8
+  - scikit-learn
+  - scipy
+  - seaborn
+  - skorch
+  - statsmodels
+  - watermark
+  - xlrd
+  - pip:
+      - sktime
