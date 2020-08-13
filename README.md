@@ -26,5 +26,5 @@ pre-commit install
 
 ## TODO
 
-- [ ] Download data
+- [x] Download data
 - [ ] Reproduce example notebook: https://www.kaggle.com/rblcoder/mental-health-happiness-economics-human-freedom

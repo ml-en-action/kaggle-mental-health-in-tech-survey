@@ -1,5 +1,6 @@
 name: ml-en-action
 channels:
+  - pytorch
   - conda-forge
   - fastai
 dependencies:
