@@ -29,5 +29,6 @@ dependencies:
   - statsmodels
   - watermark
   - xlrd
+  - mlxtend
   - pip:
       - sktime
